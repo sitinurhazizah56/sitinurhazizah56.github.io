@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<presentations version="7">
+	<presentation src="C:\Users\ammar\OneDrive - Universitas Negeri Jakarta (UNJ)\SKRIPSI\E-modul\E-MODUL 5.2.pptx">
+		<resource src="interactions\intr1.visuals"/>
+		<resource src="interactions\intr2.visuals"/>
+		<resource src="interactions\intr3.visuals"/>
+		<resource src="interactions\intr4.visuals"/>
+		<resource src="interactions\intr5.visuals"/>
+		<resource src="quiz\quiz1.quiz"/>
+		<resource src="quiz\quiz2.quiz"/>
+		<resource src="quiz\quiz3.quiz"/>
+		<resource src="quiz\quiz4.quiz"/>
+	</presentation>
+</presentations>
